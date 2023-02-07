@@ -1,7 +1,1 @@
-# Hello-World
-
-```
-class Sample {
-  public static void main
-}
-```
+# Anudip Foundation Full Stack Java course
